@@ -1,12 +1,14 @@
 # MeshConvergence
 
-![Logo del programa](logo.png)
+<p align="center">
+  <img src="logo.png" width="450">
+</p>
 
 ## Descripción
 
 **MeshConvergence** es una herramienta desarrollada en Python para facilitar el análisis de convergencia de malla en simulaciones por elementos finitos (FEA). 
 
-## Funcionalidades v1.0
+## Versión v1.0
 
 - Interfaz gráfica intuitiva
 - Carga de resultados manualmente
