@@ -16,6 +16,7 @@
 
 ## Próximas actualizaciones
 
+- Corregir modo claro / oscuro
 - Carga de resultados desde archivos `.csv`
 - Buscar base de datos
 - Borrar resultados de la base de datos
