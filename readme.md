@@ -23,14 +23,9 @@
 
 ## Cómo ejecutar
 
-El programa está empaquetado como un ejecutable `.exe`, por lo que **no se necesita tener Python instalado**. Solo descargá el archivo y ejecutalo.
+El programa está empaquetado como `.exe`, por lo que **no se necesita tener Python instalado**. Solo descargá el archivo y ejecutarlo.
 Para colocar en el escritorio, crear acceso directo de la aplicación.
 
-> Si estás usando el código fuente, necesitás tener Python y las siguientes librerías:
-> 
-> ```
-> pip install matplotlib pandas
-> ```
 
 ## Autor
 Apasionado por la programación, la simulación y la mejora continua.
