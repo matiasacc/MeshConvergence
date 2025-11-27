@@ -29,7 +29,5 @@ Para colocar en el escritorio, crear acceso directo de la aplicación.
 
 
 ## Autor
-Apasionado por la programación, la simulación y la mejora continua.
-
 Desarrollado por [@matiasacc](https://github.com/matiasacc), estudiante de Ingeniería Mecánica. 
 
